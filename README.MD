@@ -1,6 +1,6 @@
 # Three.js Circulos en shader vertex y fragment
 
-## crea varios circulos simulando que se expanden simulando agua y transition de img
+## Crea varios circulos simulando que se expanden simulando agua y transition de img
 
 ### Para instalar las dependencias ``` npm install ```
 
